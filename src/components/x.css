@@ -1,0 +1,8 @@
+.xyz{
+    background-color: #fbfbfb;
+    color: rgb(0, 0, 0);
+    border: none; /* Remove border */
+    border-radius: 4px;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
